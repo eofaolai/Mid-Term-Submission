@@ -1,0 +1,837 @@
+THOMSON REUTERS 
+
+
+EDITED TRANSCRIPT 
+
+
+Q3 2019 Luckin Coffee Inc Earnings Call 
+EVENT DATE/TIME: NOVEMBER 13, 2019 / 1:00PM GMT 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+1 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+CORPORATE PARTICIPANTS 
+
+
+Bill Zima 
+ICR, LLC - Partner 
+Charles Lu 
+Luckin Coffee Inc. - Co-Founder & Chairman 
+Jenny Qian 
+Luckin Coffee Inc. - Co-Founder & CEO 
+Reinout Schakel 
+Luckin Coffee Inc. - CFO & CSO 
+
+
+CONFERENCE CALL PARTICIPANTS 
+
+
+Tony Wang 
+Credit Suisse - Analyst 
+Vincent Yu 
+Needham & Company - Analyst 
+Eric Gonzalez 
+KeyBanc Capital Markets - Analyst 
+Jimmy Zheng 
+Morgan Stanley - Analyst 
+Ruochen Lv 
+CICC - Analyst 
+Billy Leung 
+Haitong International - Analyst 
+Interpreter 
+
+
+PRESENTATION 
+
+
+Operator 
+
+
+Ladies and gentlemen, welcome to the Luckin Coffee's Third Quarter 2019 Earnings Conference Call. (Operator Instructions) Today's 
+conference is being recorded. 
+
+
+At this time, I would like to turn the call over to Mr. Bill Zima at ICR for opening remarks and introductions. Please go ahead, sir. 
+
+
+Bill Zima 
+ICR, LLC - Partner 
+
+
+Hello, everyone. Thank you for joining us on today's call. Luckin Coffee announced their third quarter 2019 financial results earlier today. 
+The press release is now available on the company's IR website at investor.luckincoffee.com. 
+
+
+Today, you'll hear from Charles Lu, Co-Founder and Chairman of Luckin Coffee; Jenny Qian, Co-Founder and CEO; and Reinout Schakel, 
+CFO and CSO of the company. We will be referring to a slide presentation on today's call, which can be found at the link in the press 
+release we issued this morning and on the company's IR website, investor.luckincoffee.com. 
+
+
+During this call, the company will be making some forward-looking statements regarding future events and results. These statements 
+are made under the safe harbor provision of the U.S. Private Securities Litigation Reform Act of 1995. Statements that are not historical 
+facts, including but not limited to, statements about the company's beliefs and expectations are forward-looking statements. 
+Forward-looking statements involve inherent risks and uncertainties. Further information regarding these and other risks is included in 
+the company's filings with the SEC. 
+
+
+With respect to any non-GAAP measures discussed during today's call, the company reconciliation information related to those 
+measures can be found in the earnings release issued earlier today. 
+
+
+With that said, I would now like to turn the call over to Charles Lu, Chairman of Luckin Coffee. Charles, please go ahead. 
+
+
+Charles Lu 
+Luckin Coffee Inc. - Co-Founder & Chairman 
+
+
+Thank you, Bill. Good evening and good morning everyone. Thank you for your support for Luckin Coffee. 
+
+
+We are very pleased with our results in the third quarter: We exceed the high end of our guidance range, achieved a strong store level 
+profit margin of 12.5% and outperformed across all other key metrics. These results are not surprising to us. It just follows a clear trend. 
+Reinout will share the detail with you later. 
+
+
+During the quarter, sales from the coffee continued to maintain very strong growth. I believe Luckin Coffee will reach its goal to become 
+the largest coffee player in China by the end of this year. For those who spend time in China, you can see that Luckin Coffee is already 
+part of the daily life in China. Everywhere you go, either large city in Beijing, Shanghai or emerging cities like Chengdu, Tianjin, you will 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+2 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+see our eye-catching blue cups in the CBD areas, universities and many other places. China's coffee market is still under-penetrated, and 
+we believe Luckin is helping to drive the rapid growth of the coffee market in China. 
+
+
+At the same time, we continue to offer more products during the quarter. We launched Luckin Tea products, which has been a great 
+success. We also started selling cups and other merchandise products. We also entered into a joint venture agreement with LDC to sell 
+NFC juice. As a result, we experienced strong incremental demand, and increase in revenue and higher customer retention rate. 
+
+
+We also strategically launched Luckin Tea as an independent brand and developed our new retail -- new retailer partnership model. In 
+addition, we are engaged in ongoing discussion with a potential strategic business partners to set up joint ventures in the markets 
+outside of China by leveraging our technology-driven new retailer model and their local resources. 
+
+
+I have been often asked whether we are doing too much and too fast. I would say, no. In fact, this is a natural evolution of our business 
+model. Since our inception, Luckin's growth has always been beyond everyone's expectations. This is because our business model is 
+entirely built on a technology, completely different from a traditional retailer. With our fully technology-driven new retail partnership 
+model, we believe we can rapidly expand with limited capital expenditures, while maintaining high quality and high efficiency, at the 
+same time, enhance our profitability. 
+
+
+Now Jenny will provide a brief, brief of the business. Jenny, please go ahead. 
+
+
+Jenny Qian 
+Luckin Coffee Inc. - Co-Founder & CEO 
+
+
+[Interpreted] During this quarter, we outperformed all operational and financial metrics. Among which, product revenue was CNY 1.493 
+billion, an increase of 558% year-over-year. Store level had a profit margin of [12.5%]. Other metrics all met or exceeded our 
+expectations. 
+
+
+Now turning to Page 4. I would like to remind you that this quarter, the growth of product revenue is greater than the growth of the 
+number of items sold. The growth of items sold is greater than the growth of transacting customers, and the growth of transacting 
+customers is greater than the growth of stores. That shows that we are not just grow quickly, but also be able to improve efficiency and 
+profitability at the same time. It also shows that the growth of the revenue is not only due to the growth of stores. 
+
+
+Please turn to Page 5. Branding is important to our business. Under our strategy, we will continue to significantly invest in branding from 
+the second quarter 2019 to the second quarter 2020. As a result, during this period, sales and marketing fees will be relatively high. But 
+starting the third quarter of 2020, this cost will return to normal. It should be noted that our discounts and subsidies are already 
+reflected in our net revenue, so our marketing expenses are mainly for advertising and marketing campaigns. In addition, marketing fees 
+for this quarter were higher than forecast, mainly due to the launch of Luckin Tea stores and partnership model. Next quarter, marketing 
+costs will be lower than this quarter. 
+
+
+Now please turn to Page 6. Last quarter, we successfully launched Luckin Tea products. The sales of Luckin Tea has increased eight 
+times in the past 5 months. The per cup economics of Luckin Tea is similar to that of coffee. We provide to customers the consistent value 
+proposition of high quality, high affordability and high convenience. Our competitive advantages in tea industry are strong brand, huge 
+customer base, large store network, established supply chain and a fully technology-driven operational system. Luckin Tea has helped us 
+to improve customer retention rate and store throughput. 
+
+
+Turning to Page 7. China's tea market has huge potentials. Last quarter, we separated Luckin Tea as an independent brand. Luckin 
+Coffee store and the Luckin Tea store have the following differences: First, Coffee store has more coffee SKU and a relatively limited tea 
+SKU, while tea store has more tea SKU with fewer coffee choices from only one coffee machine. The second, Coffee store mainly covers 
+the first- and second-tier cities, while Tea store will cover the whole country, including fourth- and fifth-tier cities. The third, Coffee store 
+is mainly self-operated, while Tea store will operate mainly under partnership model. 
+
+
+Despite of above differences, the APP of Luckin Tea and that of Luckin Coffee will connect to each other. The operational systems for 2 
+brands are based on same technology. The rollout of Luckin Tea stores will help us cover more areas and serve more customers as well 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+3 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+as help us educate customers of coffee consumption in lower-tier cities. 
+
+
+Please turning to Page 8. Last quarter, we strategically launched the retail partnership model. Relying on our technology-driven new 
+retail model, we can effectively control the quality of services and operation process. Our partners are responsible for rent, renovation, 
+staff employment and daily operation, and Luckin is responsible for customer acquisition as one free cup for each new customer, 
+technology system, supply chain and products. We use a tiered revenue-sharing model, which means the partners do not need to pay 
+upfront franchise fee and Luckin will only start sharing the revenue when they reach certain level. 
+
+
+We believe that our partnership model will benefit the partners to reduce their investment risk, simplify operation and acquire good 
+operating income through our strong products, branding and customer base. At the same time, the operational partnership model also 
+allows us to develop in asset-light approach, to cover more areas and to serve more customers without heavy CapEx and cash burn as 
+well as to drive revenue and profitability. 
+
+
+It's worth noting that last quarter's revenues did not include any revenue from the retail partnership model since our first Luckin Tea 
+store just opened in October. Furthermore, our fourth quarter guidance will not include any revenue from partnership model. We will add 
+forecast when the model is relatively mature. 
+
+
+On Page 9. In addition to the successful launch of Luckin Tea, we also launched lot of merchandise products such as cups. Besides, we 
+signed a joint venture agreement with Louis Dreyfus to produce Luckin Juice in the future. Recently, we launched another popular snack, 
+Luckin nuts. 
+
+
+The revenue from non-coffee products increased from the 31% of 2018 to 45% in the third quarter this year. We believe that with more 
+and more products offered, we could not only achieve higher customer retention rate, but also improve the store level profitability. 
+
+
+Please turn to the Page 10. Our growth strategy focus on 2 sides: On one hand, with more customers and increasing purchase frequency, 
+lower down our procurement cost. On the other hand, with more stores and diversified products, we can bring more convenience to the 
+customers and drive their consumption frequency. 
+
+
+Luckin is on the way to realize our mission: To become part of everyone's everyday life, starting with coffee. 
+
+
+Reinout Schakel 
+Luckin Coffee Inc. - CFO & CSO 
+
+
+Thank you. Thanks, Jenny. Thanks, Charles. Hi. Good morning, and good evening, everyone on the call. I will briefly discuss our financial 
+performance during the quarter, which we believe was very, very strong. 
+
+
+If we move to Page 12. The graphs on Slide 12 illustrates our strong momentum across all aspects of our business. I'd like to specifically 
+highlight the 24% sequential growth in our store growth versus the higher sequential growth in transacting customers as well as 
+monthly items sold. 
+
+
+We remain on track to open 4,500 stores by year-end. And as Jenny mentioned, growth is not coming just from store openings, but also a 
+significant improvement in store efficiency. 
+
+
+Moving to Slide 12 (sic) [Slide 13], you can see the significant progress we've made on profitability during the quarter. We reached a store 
+level margin of 12.5% and saw a month-over-month improvement in the store level profit during the quarter. We also significantly 
+reduced our non-GAAP net loss margin, despite what we expect to be peak investments in sales and marketing during the quarter. The 
+material improvement in profitability is the result of a very clear trend of strong growth of product revenue, increased store efficiency and 
+further benefits of scale. 
+
+
+On Slide 14. First, I will discuss our product revenue growth. If you look at Slide 14, product revenue was above the high end of our range 
+and grew more than 70% sequentially. Illustrative of the improved store efficiency, you can see that the average product revenue grew 
+even faster during the quarter. 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+4 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+In terms of key underlying drivers. First, a very strong increase in the number of monthly transacting customers to 9.3 million, a 51% 
+quarter-over-quarter increase. This was the result of successfully acquiring close to 8 million new customers during the quarter, a 
+notable increase compared to last quarter, and a further increase in the retention rate of our existing customers, partly driven by the 
+success of Luckin Tea products. 
+
+
+Second, the average monthly items per transacting customer during the quarter increased to 4.7, an increase of 6% 
+quarter-over-quarter, partly driven by introduction of new products. 
+
+
+Third, the net selling price per item, which is calculated by dividing net product revenue by all items transacted, and as such, adjusted for 
+free products as well as promotions and coupons, was CNY 11.2 for the quarter, an increase of 7% quarter-over-quarter. It is worth noting 
+that the net selling price per item increased sequentially despite the buy 10 get 10 free promotion we offered when we announced the 
+nationwide launch of the Luckin Tea products, which we did in July. 
+
+
+Moving to Slide 15 and 16. As a result of our high growth and significant improvement in efficiency, you can see a very clear trend in the 
+improvement of our cost structure. This provides us with a lot of visibility in our profitability trend, and we are, therefore, very confident 
+that we can reach our company-level breakeven point by the third quarter of 2020. 
+
+
+If we look at our per cup costs on Slide 16, you see a very similar trend. You can see that we continue to make significant progress in 
+reducing our per cup costs, and we already reached below CNY 10 in Q3 from CNY 11.1 in the second quarter and CNY 16.4 in the last 
+quarter -- in the third quarter of last year. The reduction in our per cup costs is driven by a decrease of fixed cost per cup as we materially 
+increase store throughput. As you can see on the bottom of the page, the number of items sold per store per day materially increased to 
+444 during the quarter from 345 in the second quarter and 285 in the third quarter last year. 
+
+
+In terms of delivery, you can see on Slide 17 that the percentage of delivery organically declined to 12.8% during the quarter. As many of 
+you know, the growth in our pickup store development naturally reduces delivery orders as a percentage of our total sales. As a result of 
+lower delivery percentage, net delivery subsidy per item further decreased to CNY 0.5 per item during the quarter compared to CNY 2.3 
+during the same quarter last year. 
+
+
+If we move to Slide 18. On the left-hand side, you can see that new customer acquisition costs has modestly increased during the quarter 
+compared to last quarter. This is driven by an increase in strategic investments in branding, offset by a material increase in new 
+transacting customers. As discussed earlier, we believe that the company reached its peak level of brand expenses during the quarter 
+and expect to gradually reach normalized levels by Q3 2020. 
+
+
+At the same time, you can see from the chart on the right that the transaction value per customer per month, which is based on listing 
+price, for each cohort continues its upward trajectory as each customer cohort matures. This is a testament to our ability to gradually 
+increase retention rate as well as the number of items purchased per transacting customers as that customer matures. It is worth noting 
+that over the last 2 quarters, these metrics continue to increase despite the fact that we've seen a notable increase in the average selling 
+price per item. 
+
+
+Lastly, on Slide 19, I want to briefly discuss our strong balance sheet. As you can see, we have over CNY 5.5 billion of available cash as of 
+September 30, 2019. I want to highlight an important point. Our negative cash flow from operations has significantly reduced over the 
+quarter to CNY 123 million from CNY 375 million last quarter and CNY 720 million during the third quarter last year. This is mainly driven 
+by a reduction of net loss as we gradually approach our breakeven point as well as a favorable working capital profile. We remain, 
+therefore, very well capitalized to execute our current business plan. 
+
+
+This brings us to the end of our formal presentation. In terms of guidance for the fourth quarter ending December 31, 2019, the company 
+expects net revenue from products to be between CNY 2.1 billion and CNY 2.2 billion. This forecast excludes any revenue generated from 
+stores operated under the new launched retail partnership model. This forecast reflects the company's current and preliminary views, 
+which are subject to change. 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+5 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+And this completes our prepared remarks. 
+
+
+QUESTIONS AND ANSWERS 
+
+
+Operator 
+
+
+(Operator Instructions) We have the first question from the line of Tony Wang from Credit Suisse. 
+
+
+Tony Wang 
+Credit Suisse - Analyst 
+
+
+Great, thanks. Good Evening everyone, and congratulations on the great results. So, my first question is about the gross margin. So for 
+this quarter, why the unit cost of raw material for drink products remain flat quarter-over-quarter? Because my understanding is that the 
+cost of the tea products should be higher than coffee, and we have seen a very strong incremental growth from tea products this quarter. 
+So this is my first question. 
+
+
+The second question is, could you talk about the trend of the key operating metrics into the fourth quarter, especially the ASP, as we are 
+seeing increasing promotion intensity by you and other competitors? And also the growth outlook for the Luckin Tea products in Q4 given 
+the seasonality. 
+
+
+The third question is about the new retail partner model for Luckin Tea that you have been testing. So could you talk about the progress 
+so far? And how long will take, you know, for you to give us some more details? And also whether this model will be replicated to the 
+Luckin Coffee store in the future. So that's all my questions, and I will translate myself. (foreign language) 
+
+
+Reinout Schakel 
+Luckin Coffee Inc. - CFO & CSO 
+
+
+Tony, thanks a lot for your questions, and I'll try and address maybe the first two, and then Charles and Jenny will supplement and sort of 
+address your third question as well. 
+
+
+I think your first question is in relation to kind of the per cup costs and sort of what we're seeing, particularly also around the raw material 
+costs. So I guess, taking a step back, I think, first of all, per cup costs really has been trending very favorably. We've seen that as a result 
+of increased volumes. We see that sort of particularly, the fixed costs, have been further decreasing as a per item cost, which I think is 
+something that we had anticipated and also expect to see going forward. 
+
+
+When it comes to your raw material costs, I mean, in general, as Jenny mentioned, the sort of cost of material for tea and coffee is not 
+that dissimilar. I think tea, yes, is probably going to be slightly higher than that for coffee. But ultimately, I think we've been able to 
+obviously also increase the efficiency we have in our supply chain. And also, we think that we can ultimately bring down that raw material 
+costs a little bit further. Some of the initiatives that we're doing, including joint ventures with Louis Dreyfus and some others as well, is 
+also partly driven by further reducing the cost of raw materials. The main improvement from the per cup costs historically and going 
+forward is obviously going to be through increased store efficiency and more items per store per day. 
+
+
+Now on your second question in relation to the ASP, we've seen another healthy growth of ASP quarter-over-quarter. On the one hand, 
+that is because in terms of the number of new customers that we attract or the number of free cups that we give as a percentage of total 
+transacting customers, obviously, continues to reduce, because we've been increasing the number of transacting customers. So that has 
+a less dilutive impact on sort of your ASP. At the same time, also, we continue to increase the number of people that are already paying 
+the price that we want them to pay. So it's a trend that we have seen in Q2. We obviously see it in Q3. 
+
+
+In terms of your questions, yes, we do expect that trend to continue, in line with what we have been communicating on before. So over 
+time, the sort of the long-term price that we're looking for is, obviously, that sort of CNY 16 to CNY 17, and we gradually will kind of move 
+towards that price point over time. 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+6 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+Charles Lu 
+Luckin Coffee Inc. - Co-Founder & Chairman 
+
+
+[Interpreted] So overall, the feedback on the launch of the new retail model is very positive. We have so far received close to 2,000 
+deposits already. And we have identified that some of these new joiners have already located a suitable site for their shop opening and 
+also some are under renovation. In October, we actually have seen that quite a few of them has already started to launch the store. 
+
+
+Overall, we actually see that there is very strong desire to join our new partnership model. However, because of the short historical 
+history, we are still trying our best to optimize their operation. So we believe that we can only provide a more insightful guidance next 
+quarter, because as of now, we do not have too much visibility on the results of the model. 
+
+
+So we have already replicated the new partnership model to some of our coffee scenarios. For example, in some hospitals, whereas we 
+are not able to go in, we are actually licensing to our partners to do that. But we will still maintain our own separate self-operating model 
+target store opening target. And we believe that these new replication of the new model on the coffee business will be an incremental 
+upside of the business. 
+
+
+Operator 
+
+
+(Operator Instructions) We have the next question from Vincent Yu from Needham & Company. 
+
+
+Vincent Yu 
+Needham & Company - Analyst 
+
+
+Thank you management and congrats on a great quarter. I have few questions. One is on the marketing expenses. So will there be any 
+incremental marketing expenses to support rollout of Luckin Tea store? Like do we have any local sales and promotion campaign that we 
+need to share the expense? 
+
+
+Second question about the repurchase, customer repurchase rates in higher-tier cities and lower-tier cities. And the third question is 
+trying to understand your views on the lockup period expiration. (foreign language) 
+
+
+Reinout Schakel 
+Luckin Coffee Inc. - CFO & CSO 
+
+
+Thanks, Vincent. I'll address your first and your second question, and then Charles will go through the third question. 
+
+
+So in terms of marketing expenses, just a few things. One is, obviously, in the quarter that we had now, as we mentioned, so the 
+marketing expenses were a bit higher because we also launched tea. I think the benefit that we have obviously, is that there's an awful lot 
+of synergies between sort of Luckin Coffee and Luckin Tea also in terms of branding and branding budget. Yes, there will be some 
+additional expenses for Luckin Tea specifically, but they are already incorporated in sort of the guidance that we've given around to the 
+trend that we expect around marketing expenses. 
+
+
+Your second question around sort of the repurchase rate or the retention rate of kind of the difference between lower and higher tiers. I'll 
+generalize the response here. I think when you look at lower-tier versus higher-tier cities, there's a few things that you can see: One, in 
+terms of retention rate, very, very similar trend. There's no notable difference between retention rate in sort of the lower-tier cities versus 
+higher-tier cities. What we do see is that sort of volumes in higher-tier cities are typically slightly higher than in lower-tier cities. But at 
+the same time, you'll see that the cost of labor, the cost of rent will be lower in lower-tier cities. So if you actually look at your per cup 
+costs or sort of your store level profitability versus lower-tier cities and higher-tier cities, actually very, very similar. 
+
+
+Last question around lockup, I'll give to Charles. 
+
+
+Charles Lu 
+Luckin Coffee Inc. - Co-Founder & Chairman 
+
+
+[Interpreted] I understand that this is a very heavily worried topic, but I would like to give my views here. First of all, the company 
+[during](corrected by company after the call) lockup is still in a very high growth rate of our business as evidenced by our Q3 results. All 
+the metrics are still showing significant growth. We believe that our profitability will continue to improve, and there remains significant 
+upside to our share price. We think most of our pre-IPO shareholders think the same. 
+
+
+Second, management team owns more than 50%. We have very strong belief in long-term potential and have no intention to sell. 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+7 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+Third, our pre-IPO investors are unlike other companies, just invested and relatively new in their cycles, so they don't have any pressure to 
+sell at this point. 
+
+
+If you look at our shareholder base, you can see that we have a very good long-term shareholder base, which is quite unique among the 
+Chinese ADRs, and they are all very positive in our long-term business performance. 
+
+
+Operator 
+
+
+We have the next question from the line of Eric Gonzalez from KeyBanc. 
+
+
+Eric Gonzalez 
+KeyBanc Capital Markets - Analyst 
+
+
+Thank you and congrats on a great quarter, and thanks for those comments on the lockup. 
+
+
+So I just have a question about your profitability this quarter. 12.5% restaurant margin is arguably better than several publicly traded 
+restaurant companies. So I was just wondering, how does this make you feel about reaching overall profitability in the third quarter of 
+2020. Does this increase the odds that you can be profitable sooner? 
+
+
+And then maybe secondarily, can you speak to the growth of the core coffee business? Obviously, you have some pretty strong metrics 
+and across items sold and ASP. But maybe if you could just isolate the coffee business and how that performed versus your expectations. 
+Thanks. 
+
+
+Interpreter 
+
+
+I will translate the question. (foreign language) 
+
+
+Reinout Schakel 
+Luckin Coffee Inc. - CFO & CSO 
+
+
+Eric, thanks for dialing in. Thanks for your question. 
+
+
+So I guess, the first question, just in terms of profitability. And obviously, I think the store level profit that we had in Q3 was very, very 
+positive. As we explained kind of the trend that we're seeing is obviously not just kind of store growth, but you see growth of number of 
+customers, number of items, the ASP, and this is also a trend that we expect to continue to develop going forward. So we certainly think 
+that, obviously, the store level profitability will increase going forward. 
+
+
+We also said in terms of kind of the cost base, and we look at the SG&A, the biggest component is sales and marketing. And I think we've 
+got a very, very clear strategy around sort of our branding strategy and also the costs related to branding and how we're going to bring 
+that down by Q3. 
+
+
+So I think from where we are today, we can say, look, very high confidence that we'll reach that breakeven point by Q3 2020. Certainly, 
+we expect that store level profitability to further increase over time. 
+
+
+Now on your question on coffee, and thanks for that question. I think one of the points that we certainly want to bring across in this call is 
+that coffee is doing very, very well. Whichever way you look at it, we've been in China for now close to 2 years, we're very close to selling 
+the same or more cups per day than our largest competitor. As Charles mentioned, we think we can be the largest coffee player by the 
+end of this year. 
+
+
+And when you look at metrics, and for example, if you look at number of coffee items that we sell per store per day, quarter-over-quarter, 
+10% to 15% growth, which we think is very, very strong. If you look at it year-over-year, and particularly when you also adjust for the free 
+cups that you give because obviously, last year, we gave a lot more free cups because that was effectively our initial introduction to 
+customers. If you look at the paid cups of coffee, year-over-year, we saw growth very, very close to 50% in terms of the number of items 
+per store per day. So I think coffee has been doing very, very well. 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+8 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+What's been very positive? In addition to that, this quarter is that, obviously, we've had a lot of incremental demand from also tea, coffee 
+and tea, very little cannibalization. We've seen that the tea demand effectively has been almost incremental, which also have been 
+driving the number of items per store per day. And that's also brought us, obviously all the benefits around efficiency, retention rate and 
+ultimately, profitability. Thank you. 
+
+
+Operator 
+
+
+We have the next question from the line of Jimmy Zheng from Morgan Stanley. 
+
+
+Jimmy Zheng 
+Morgan Stanley - Analyst 
+
+
+Hello, everyone. Thanks Charles, Jenny, Reinout for the presentation and congratulations for the very good results. I have 2 questions 
+here. The first one is, how do you balance or how do you think about the store productivity versus store openings, especially in the fourth 
+quarter, which is a big quarter for store opening. I can see that store productivity has been growing very good in the third quarter. How do 
+you think about the trend in the fourth quarter? And can it still grow further? 
+
+
+The second question, it's about the product mix. We see non-coffee already account for 45% in the third quarter. I know we had a target 
+of 50-50 by year-end. How do we think about it now? And how do we think about it over the longer term? Do we think non-coffee will 
+continue to rise to 60%, 70% of our mix? Or how do you think about that? Let me translate in Chinese. (foreign language) 
+
+
+Charles Lu 
+Luckin Coffee Inc. - Co-Founder & Chairman 
+
+
+[Interpreted] First of all, I would like to explain our business logic. We are very different from the traditional model, whereas they will 
+open the store first and then they will look for demand. However, we have located demand first by our delivery business, whereas we are 
+able to spot the demand growth by either the increase of frequency and also the customer -- number of customers. Therefore, we are 
+only to open the store to meet the needs. 
+
+
+We have maintained a very good balance of demand and opening. We have already have a very sophisticated analysis of the customer 
+behavior by setting our locations closer to them and also locating higher frequency and also more customer products. We are able to 
+identify the need, and we believe that the number of stores to be opened are needed by these increased customer demand. 
+
+
+So we actually do not have a target on the non-coffee mix. However, we believe that it will continue to grow. But first of all, I would like to 
+clarify that this is not because of our core coffee business, the growth to slow down. Rather, it is because of the non-coffee growth trend 
+is growing at a higher speed. And eventually, we believe that it will increase to exceed 50%, but we currently have no visibility on that. It 
+will overall be based on customer needs and also profitability target. 
+
+
+Operator 
+
+
+We have the next question from the line of Ruochen Lv from CICC. 
+
+
+Ruochen Lv 
+CICC - Analyst 
+
+
+Good Evening Everyone. Congratulations, and a good performance of the third quarter. I have 3 questions. And the first is, what is the 
+percentage of Luckin Tea products out of total freshly brewed products. And as the weather gets colder in the fourth quarter, do you 
+expect a decrease of demand for the Luckin Tea products and will it negatively impact the items sold per store per day in the fourth 
+quarter. 
+
+
+And my second question is also about the update of Luckin Tea stores. So I would like to know for a mature Luckin Tea store, what is your 
+expected number of items sold per store per day, and the normalized profit margin for Luckin Tea store compared with Luckin Coffee 
+stores. 
+
+
+And my third question is, can you share with us your cooperation with Americana? And do you have any intention to enter into more areas 
+outside of China. 
+
+
+So I will translate myself. (foreign language) 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+9 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+Charles Lu 
+Luckin Coffee Inc. - Co-Founder & Chairman 
+
+
+[Interpreted] So to answer your question, Luckin Tea, the sales is about 20% of the freshly brewed drinks in quarter 3. And we agree with 
+you that in Q3 and Q4(corrected by company after the call), because of the cold weather, the demand for the Luckin Tea products may 
+decrease. However, for our hot coffee drinks, we expect an increase on that. But overall, we have a quite optimistic view on the increase of 
+the tea sales. 
+
+
+So we actually have launched some self-operated Luckin Tea stores. We actually see that the profitability over the overall performance 
+are actually quite similar to our coffee shops. For our partnership model operating the Luckin Tea brand, we actually see some of them 
+have good performance and some less good performance. However, we believe that we should be able to provide you more visibility 
+estimation next quarter as we are still fairly -- we are still observing the results of these new model. 
+
+
+So to answer your question, we are actually not just in the discussion with Americana to expand our business. We are also talking to 
+other business partner in other regions. So the answer is yes, we will expand to other more regions as well. But the overall target is that 
+we have to maintain an asset-light strategy of expansion, which means that we will control or limit our investment and also cash burn 
+rate. We actually want to expand by leveraging our IT technology and also our business know-how. So the 3 items that we will focus on is 
+that we need to ensure that these expansions will protect our service quality, cash flow and also to ensure our profitability. 
+
+
+Operator 
+
+
+We have the next question from the line of Billy Leung from Haitong International... 
+
+
+Billy Leung 
+Haitong International - Analyst 
+
+
+Hi Charles. Hi Jenny. Hi Reinout. Thank you for taking my questions, and congratulations on another strong quarter. I just have 3 
+questions. My first question is on the product range. We have been very successful in launching new products, such as Luckin Tea. I just 
+wanted to ask if management has any plans to introduce, on large-scale, non-drink products into our core SKU. So that's my first 
+question. 
+
+
+The second question is on store efficiency. Jenny mentioned that revenue growth is not just coming from new stores. I'm just wondering if 
+we could share the same-store sales growth during quarter 3. 
+
+
+My last question is on the customer type, are we seeing any differences in customer types between Luckin Tea and Luckin Coffee? For 
+example, Luckin Tea consumer is younger, more skewed towards female? Is there any difference between income just on the behavior or 
+the customer type? 
+
+
+Let me translate myself. (foreign language) 
+
+
+Jenny Qian 
+Luckin Coffee Inc. - Co-Founder & CEO 
+
+
+[Interpreted] In terms of the non-drink products, of course, other than the coffee and tea products we already launched, so we want to 
+serve and integrate with our customers' daily life. So recently, we launched the nuts. And in the future, we already signed agreement with 
+Louis Dreyfus to produce the Luckin Juice in the future. 
+
+
+Reinout Schakel 
+Luckin Coffee Inc. - CFO & CSO 
+
+
+Billy, the second question on sort of the like-for-like. And I think the reason -- like-for-like for us is not sort of a metric that is maybe the 
+most relevant because we don't like looking at sort of a series of stores. We're looking at sort of the entire platform. Obviously, one, 
+because we don't have that many mature stores as you would define, sort of more than 13 months open. Secondly, also the way we use 
+the sort of the delivery platform and how we allocate sort of products to the various stores, which is based on location, rather than on sort 
+of the sort of the age of the store. 
+
+
+Now what we have included in this quarter in terms of disclosure is the average product revenue per store per quarter, which effectively, 
+again, is looking at it from the entire platform. You can see, obviously, that your per quarter revenues -- your revenue per store in the 
+quarter has increased significantly. If you look at Page 14, it's grown by nearly sort of 80% year-over-year, which obviously indicated that 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+10 
+
+NOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings CallNOVEMBER 13, 2019 / 1:00PM GMT, Q3 2019 Luckin Coffee Inc Earnings Call
+sort of the efficiency of store level is a function of, A), the increase in the number of items per store per day; and secondly, also, an 
+increase in sort of the average price that we see each and every sort of quarter going up. So I think there, you can get an indication on sort 
+of the trend that we're seeing and sort of the strong growth we see in the average revenue per store. 
+
+
+Jenny Qian 
+Luckin Coffee Inc. - Co-Founder & CEO 
+
+
+[Interpreted] So for our current stores, we still focus on the CBD areas. So what we observed from the data, our customers for Luckin Tea 
+and Luckin Coffee are similar. 
+
+
+Charles Lu 
+Luckin Coffee Inc. - Co-Founder & Chairman 
+
+
+[Interpreted] Thank you all for your support, and welcome to visit any of our stores in the major cities, such as Beijing, et cetera. If you're 
+interested, please feel free to contact our IR. We will take you to the stores that you would like to see and show you our products and our 
+operational process. 
+
+
+(foreign language) Thank you very much. 
+
+
+Reinout Schakel 
+Luckin Coffee Inc. - CFO & CSO 
+
+
+Thank you. 
+
+
+Operator 
+
+
+Thank you, sir. Ladies and gentlemen, this concludes our -- today's call. You may all disconnect. 
+[Portions of this transcript that are marked [Interpreted] were spoken by an interpreter present on the live call.] 
+
+
+DISCLAIMER 
+
+
+Thomson Reuters reserves the right to make changes to documents, content, or other information on this web site without obligation to notify any person of such changes. 
+
+
+In the conference calls upon which Event Briefs are based, companies may make projections or other forward-looking statements regarding a variety of items. Such forward-looking statements are based 
+upon current expectations and involve risks and uncertainties. Actual results may differ materially from those stated in any forward-looking statement based on a number of important factors and risks, 
+which are more specifically identified in the companies' most recent SEC filings. Although the companies may indicate and believe that the assumptions underlying the forward-looking statements are 
+reasonable, any of the assumptions could prove inaccurate or incorrect and, therefore, there can be no assurance that the results contemplated in the forward-looking statements will be realized. 
+
+
+THE INFORMATION CONTAINED IN EVENT BRIEFS REFLECTS THOMSON REUTERS'S SUBJECTIVE CONDENSED PARAPHRASE OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND THERE MAY 
+BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS. IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE 
+COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY EVENT BRIEF. USERS ARE 
+ADVISED TO REVIEW THE APPLICABLE COMPANY'S CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS. 
+
+
+©2019 Thomson Reuters. All Rights Reserved. 
+
+
+THOMSON REUTERS | Contact Us 
+
+
+©2019 Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar 
+means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are 
+registered trademarks of Thomson Reuters and its affiliated companies. 
+
+
+11 
+
