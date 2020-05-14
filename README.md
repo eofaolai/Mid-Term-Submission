@@ -1,3 +1,3 @@
 # Mid-Term-Submission
 
-Attached are the Earnings Statement txt file, code and overview for the mid-term assignment submission
+Attached are the Earnings Statement txt file, code, output file and project overview document for the mid-term assignment submission
